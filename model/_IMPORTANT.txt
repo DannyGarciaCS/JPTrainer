@@ -1,0 +1,7 @@
+The model uses the ETL Character Database. In accordance with ETL's conditions of use, I cannot provide the data used.
+
+If you want to tweak or rebuild the model used, follow the following steps:
+1. Go to http://etlcdb.db.aist.go.jp/download-request, request access to the data, and download it.
+2. Go to http://etlcdb.db.aist.go.jp/download-request and follow the instructions to extract the images.
+3. Move the generated folders (ETL1 - ETL9G) into the "images" folder
+4. Run the buildModel.py script

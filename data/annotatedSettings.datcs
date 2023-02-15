@@ -1,0 +1,29 @@
+# Build settings
+initialBoot::False
+
+# Screen settings
+screenX::1400
+screenY::800
+displayX::2000
+displayY::1200
+
+# Study settings
+studyHiragana::False
+studyKatakana::False
+studyKanji::False
+
+# Colors
+menuGray5::(140, 140, 140)
+menuGray4::(80, 80, 80)
+menuGray3::(55, 55, 55)
+menuGray2::(40, 40, 40)
+menuGray1::(30, 30, 30)
+
+highBlue2::(97, 194, 228)
+highBlue1::(97, 167, 228)
+
+highYellow2::(228, 185, 97)
+highYellow1::(228, 157, 97)
+
+highRed2::(228, 104, 97)
+highRed1::(228, 97, 117)

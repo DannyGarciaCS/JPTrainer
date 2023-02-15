@@ -1,0 +1,25 @@
+initialBoot::True
+screenX::1400
+screenY::800
+displayX::2000
+displayY::1200
+cMenu4::(80, 80, 80)
+cMenu3::(55, 55, 55)
+cMenu2::(40, 40, 40)
+cMenu1::(30, 30, 30)
+cHighBlue2::(97, 167, 228)
+cHighBlue1::(97, 167, 228)
+menuGray4::(80, 80, 80)
+menuGray3::(55, 55, 55)
+menuGray2::(40, 40, 40)
+menuGray1::(30, 30, 30)
+highBlue2::(97, 194, 228)
+highBlue1::(97, 167, 228)
+highYellow2::(228, 185, 97)
+highYellow1::(228, 157, 97)
+highRed2::(228, 104, 97)
+highRed1::(228, 97, 117)
+studyHiragana::True
+studyKatakana::True
+studyKanji::True
+menuGray5::(140, 140, 140)
